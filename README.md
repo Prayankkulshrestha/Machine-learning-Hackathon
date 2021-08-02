@@ -1,1 +1,1 @@
-### This Repo for various participated machhine leaning hacakthon
+### This Repo for various participated ML & AI hacakthon
